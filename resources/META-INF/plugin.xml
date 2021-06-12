@@ -1,0 +1,39 @@
+<idea-plugin>
+    <id>com.thomas-bagnolati.gitfox</id>
+    <name>GitFox Theme</name>
+    <version>1.0</version>
+    <vendor>Thomas Bagnolati</vendor>
+
+    <description><![CDATA[
+
+<p>GitFox is a plugin theme inspired by Github.</p>
+<p>Currently only dark theme exist.</p>
+<br>
+<p><br>I use the colors scheme "GitHub Primer Dark" made by Nonthawat Duangchai that I arrange as my taste.</p>
+<br>
+<br>
+<p>Font I use : "SF mono ligature."
+<br>
+<p> Github Page : <a href="https://github.com/Thomas-Bagnolati/GitFox-theme">https://github.com/Thomas-Bagnolati/GitFox-theme.</a>
+]]>
+
+    </description>
+
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+    <idea-version since-build="173.0"/>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <themeProvider id="97670af1-770a-454d-a517-7590403f901e" path="/gitfox.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+
+</idea-plugin>

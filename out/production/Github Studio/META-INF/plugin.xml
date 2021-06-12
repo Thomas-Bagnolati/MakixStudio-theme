@@ -1,0 +1,26 @@
+<idea-plugin>
+  <id>com.thomas-bagnolati.gitfox</id>
+  <name>GitFox Scheme</name>
+  <version>1.0</version>
+  <vendor>Thomas Bagnolati</vendor>
+
+  <description>This is a plugin to theme Intellij IDE, inspired by GitHub</description>
+
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <depends>com.intellij.modules.platform</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="97670af1-770a-454d-a517-7590403f901e" path="/gitfox.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
