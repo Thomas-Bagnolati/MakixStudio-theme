@@ -1,8 +1,8 @@
 {
-  "name": "GitFox",
+  "name": "GitFox Dark",
   "dark": true,
   "author": "Thomas Bagnolati",
-  "editorScheme": "/gitfox_scheme.xml",
+  "editorScheme": "/gitfox_dark.xml",
   "ui": {
     "*": {
       "background": "#161B22",
