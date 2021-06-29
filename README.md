@@ -3,6 +3,8 @@
 ## Presentation
 MakixStudio is a theme for intellij IDE.
 
+The font I use is "Roboto Mono".
+
 ## Screenshots
 ![alt text](screenshots/Screenshot_1.jpg)
 
