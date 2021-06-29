@@ -1,15 +1,13 @@
 <idea-plugin>
-    <id>com.thomas-bagnolati.gitfox</id>
-    <name>GitFox Theme</name>
+    <id>com.thomas-bagnolati.makixstudio</id>
+    <name>MakixStudio Theme</name>
     <version>1.0</version>
     <vendor>Thomas Bagnolati</vendor>
 
     <description><![CDATA[
 
-<p>GitFox is a plugin theme inspired by Github.</p>
-<p>Currently only dark theme exist.</p>
+<p>This is a color theme for Intellij IDE</p>
 <br>
-<p>Font I use : "SF mono ligature."
 <br>
 <p> Github Page : <a href="https://github.com/Thomas-Bagnolati/GitFox-theme">https://github.com/Thomas-Bagnolati/GitFox-theme.</a>
 ]]>
@@ -26,7 +24,7 @@
 
     <extensions defaultExtensionNs="com.intellij">
         <!-- Add your extensions here -->
-        <themeProvider id="97670af1-770a-454d-a517-7590403f901e" path="/gitfox.theme.json"/>
+        <themeProvider id="97670af1-770a-454d-a517-7590403f901e" path="/makix_studio.theme.json"/>
     </extensions>
 
     <actions>

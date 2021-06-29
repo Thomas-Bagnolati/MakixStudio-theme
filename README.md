@@ -1,12 +1,10 @@
 # GitFox-theme ![alt text](resources/META-INF/pluginIcon.svg)
 
 ## Presentation
-GitFox is a plugin theme inspired by Github. Currently, only dark theme exist.
-
-I use the colors scheme "GitHub Primer Dark" made by Nonthawat Duangchai that I arrange as my taste.
-
-Font I use : "SF mono ligature."
-
+MakixStudio is a theme for intellij IDE.
 
 ## Screenshots
-![alt text](screenshots/Screenshot_1.bmp)
+![alt text](screenshots/Screenshot_1.jpg)
+
+
+![alt text](screenshots/Screenshot_2.jpg)

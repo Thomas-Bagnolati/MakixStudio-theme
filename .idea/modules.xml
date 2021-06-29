@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GitFox.iml" filepath="$PROJECT_DIR$/GitFox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MakixStudio.iml" filepath="$PROJECT_DIR$/MakixStudio.iml" />
     </modules>
   </component>
 </project>
